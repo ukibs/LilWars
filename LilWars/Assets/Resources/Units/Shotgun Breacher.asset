@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745b927d1deacac47aff68bbc7a5f6aa, type: 3}
+  m_Name: Shotgun Breacher
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 624f130578703144db2bc062c7a64e3a, type: 3}
+  prefab: {fileID: 1769374669409296230, guid: 61a0e28bd39404d448fc3960c7593cab, type: 3}
+  movementSpeed: 9
+  weaponStats: {fileID: 11400000, guid: 47aa781f5a0ed1d4e98829074e5f48f2, type: 2}
+  armor: 3
+  initialHealth: 10
+  cost: 1.1
+  trooperMaterials:
+    greyMaterial: {fileID: 0}
+    redMaterial: {fileID: 2100000, guid: dd905051d2896c4459c64acca5c80852, type: 2}
+    blueMaterial: {fileID: 2100000, guid: 297c167fa1dbf9a4e8e2962b2d73377a, type: 2}
+  deadBodyPrefab: {fileID: 967077652011282416, guid: f2c7cc6a0ac5ab44da92716cad202ed2,
+    type: 3}
+  movingClip: {fileID: 0}
+  deathEffectPrefab: {fileID: 5350979072155800051, guid: 7f047f186d9a9b648b9cd77fce295627,
+    type: 3}

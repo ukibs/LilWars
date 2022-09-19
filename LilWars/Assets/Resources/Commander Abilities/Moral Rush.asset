@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 027fe52b3298e7045ae801e198f8d287, type: 3}
+  m_Name: Moral Rush
+  m_EditorClassIdentifier: 
+  abilityIcon: {fileID: 2800000, guid: 3cabce72036e6414eb20f8021957e594, type: 3}
+  cost: 15
+  cooldown: 15
+  range: 15
+  clip: {fileID: 8300000, guid: c1823fe8d51fcb24eb7751b33132c618, type: 3}

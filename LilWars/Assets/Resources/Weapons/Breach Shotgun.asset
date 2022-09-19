@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9ff27948f1089c43bfa294fcc1a9b6d, type: 3}
+  m_Name: Breach Shotgun
+  m_EditorClassIdentifier: 
+  attackReach: 12
+  attackRate: 0.6
+  attack: 5
+  proyectilePrefab: {fileID: 1537638596295193355, guid: fa54ae3e4e934b84c8497bc18f4a6b1d,
+    type: 3}
+  weaponProyectileMaterial: {fileID: 2100000, guid: bd78fdb2f4166954bba9457a975c3a6b,
+    type: 2}
+  fireArm: 1
+  isExplosive: 0
+  explosiveRadius: 0
+  attackClip: {fileID: 8300000, guid: 113d2f22e26b1e44b9ad77c6ecdc6f0b, type: 3}
+  clipVolume: 0.2

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745b927d1deacac47aff68bbc7a5f6aa, type: 3}
+  m_Name: Sniper
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 44936ed06841ecb4aaae1aa0d4325d61, type: 3}
+  prefab: {fileID: 1769374669409296230, guid: 61a0e28bd39404d448fc3960c7593cab, type: 3}
+  movementSpeed: 11
+  weaponStats: {fileID: 11400000, guid: 3a3115c81f27a9e4eb31b996dfebef45, type: 2}
+  armor: 1
+  initialHealth: 10
+  cost: 1.5
+  trooperMaterials:
+    greyMaterial: {fileID: 0}
+    redMaterial: {fileID: 2100000, guid: 2394bc7cc84828e449d45b58b9b79fd4, type: 2}
+    blueMaterial: {fileID: 2100000, guid: 384579024cd9aaf4aa079cbd0edb2156, type: 2}
+  deadBodyPrefab: {fileID: 967077652011282416, guid: f2c7cc6a0ac5ab44da92716cad202ed2,
+    type: 3}
+  movingClip: {fileID: 0}
+  deathEffectPrefab: {fileID: 5350979072155800051, guid: 7f047f186d9a9b648b9cd77fce295627,
+    type: 3}

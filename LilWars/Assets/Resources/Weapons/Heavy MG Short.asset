@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9ff27948f1089c43bfa294fcc1a9b6d, type: 3}
+  m_Name: Heavy MG Short
+  m_EditorClassIdentifier: 
+  attackReach: 15
+  attackRate: 0.6
+  attack: 7
+  proyectilePrefab: {fileID: 1537638596295193355, guid: fa54ae3e4e934b84c8497bc18f4a6b1d,
+    type: 3}
+  weaponProyectileMaterial: {fileID: 2100000, guid: 0d753892dcb9e3b4a8477f76bcecfcd5,
+    type: 2}
+  fireArm: 1
+  isExplosive: 0
+  explosiveRadius: 0
+  attackClip: {fileID: 8300000, guid: 5c98af68e4f63f0458d198c8cd9d823b, type: 3}
+  clipVolume: 0.2

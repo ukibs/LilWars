@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745b927d1deacac47aff68bbc7a5f6aa, type: 3}
+  m_Name: Power Trooper
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: c47faad65c9dad74296b9ef9d2fb790f, type: 3}
+  prefab: {fileID: 1769374669409296230, guid: 61a0e28bd39404d448fc3960c7593cab, type: 3}
+  movementSpeed: 6
+  weaponStats: {fileID: 11400000, guid: 20bcb9f8585250b4a8176afbc4034f63, type: 2}
+  armor: 6
+  initialHealth: 15
+  cost: 10
+  trooperMaterials:
+    greyMaterial: {fileID: 0}
+    redMaterial: {fileID: 2100000, guid: bc63dbd5b7dc5b94186152e8f3531d24, type: 2}
+    blueMaterial: {fileID: 2100000, guid: ed3f96759d43cc9448b3243824cabdc9, type: 2}
+  deadBodyPrefab: {fileID: 967077652011282416, guid: f2c7cc6a0ac5ab44da92716cad202ed2,
+    type: 3}
+  movingClip: {fileID: 0}
+  deathEffectPrefab: {fileID: 5350979072155800051, guid: 7f047f186d9a9b648b9cd77fce295627,
+    type: 3}

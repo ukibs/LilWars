@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9ff27948f1089c43bfa294fcc1a9b6d, type: 3}
+  m_Name: Sniper Rifle
+  m_EditorClassIdentifier: 
+  attackReach: 30
+  attackRate: 4
+  attack: 13
+  proyectilePrefab: {fileID: 1537638596295193355, guid: fa54ae3e4e934b84c8497bc18f4a6b1d,
+    type: 3}
+  weaponProyectileMaterial: {fileID: 2100000, guid: 5f05fd2509db84244a3de7d75a135f72,
+    type: 2}
+  fireArm: 1
+  isExplosive: 0
+  explosiveRadius: 0
+  attackClip: {fileID: 8300000, guid: b12d14a7e9a85cd4caef068a88a2b7cc, type: 3}
+  clipVolume: 0.2

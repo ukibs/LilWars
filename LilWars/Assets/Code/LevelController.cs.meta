@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5cf519105ef36c9498db3a7a1c0d5494
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selectedBuildingIcon: {instanceID: 0}
+  - uISkin: {instanceID: 0}
+  - deadBodyPrefab: {fileID: 967077652011282416, guid: f2c7cc6a0ac5ab44da92716cad202ed2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
